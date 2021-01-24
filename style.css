@@ -1,0 +1,54 @@
+/*2021 turwaith*/
+
+/*----- MOBILE PORTRAIT - UNDER 480px -----*/
+/*----- GLOBAL -----*/
+
+/*----- HEADER -----*/
+
+/*-----  MAIN  -----*/
+
+/*----- FOOTER -----*/
+
+/*----- MOBILE LANDSCAPE & LARGER - OVER 480px ----- */
+@media only screen and (min-width: 480px) {
+/*----- GLOBAL -----*/
+
+/*----- HEADER -----*/
+
+/*-----  MAIN  -----*/
+
+/*----- FOOTER -----*/
+}
+
+/*----- TABLET PORTRAIT - OVER 768px -----*/
+@media only screen and (min-width: 768px) {
+/*----- GLOBAL -----*/
+
+/*----- HEADER -----*/
+
+/*-----  MAIN  -----*/
+
+/*----- FOOTER -----*/
+}
+
+/*----- TABLET LANDSCAPE - OVER 992px -----*/
+@media only screen and (min-width: 992px) {
+/*----- GLOBAL -----*/
+
+/*----- HEADER -----*/
+
+/*-----  MAIN  -----*/
+
+/*----- FOOTER -----*/
+}
+
+/*----- LAPTOP & LARGER - OVER 1200px -----*/
+@media only screen and (min-width: 1200px) {
+/*----- GLOBAL -----*/
+
+/*----- HEADER -----*/
+
+/*-----  MAIN  -----*/
+
+/*----- FOOTER -----*/
+}
